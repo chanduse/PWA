@@ -1,0 +1,47 @@
+{
+  "profile":{
+    "image":"images/image1.jpeg",
+    "name":"Chandu",
+    "designation":"student",
+    "email_id":"18695A0503@mits.ac.in",
+    "mobile":"***********"
+  },
+  "Career_objective":{
+    "info":"to reach your destination"
+  },
+  "Education":
+  [
+    {
+    "s_no":"1",
+    "Qualification":"B.tech",
+    "intitute":"Madanapalle institute of technology and science",
+    "percentage":"78",
+    "yop":"2019"
+  },
+  {
+    "s_no":"2",
+    "Qualification":"diplome",
+    "intitute":"DR Y.C james yen govt poly",
+    "percentage":"78",
+    "yop":"2018"
+  },
+  {
+    "s_no":"3",
+    "Qualification":"10",
+    "intitute":"spcs boys high school",
+    "percentage":"72",
+    "yop":"2015"
+  }
+],
+  "Skills":
+  [
+    {
+    "name":"webtechnologies",
+    "info":["html","css","js"]
+  },
+  {
+    "name":"database",
+    "info":["jdbc","firebase","sql","mangoDB"]
+  }
+]
+}
